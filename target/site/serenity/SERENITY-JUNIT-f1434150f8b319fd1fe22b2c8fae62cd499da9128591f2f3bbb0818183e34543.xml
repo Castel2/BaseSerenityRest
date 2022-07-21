@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Validate that the JSONPlaceHolder API returns the registered users" skipped="0" tests="2" time="4.5" timestamp="2022-07-21 03:24:08"><testcase name="Search users by id in the JSONPlaceHolder API"/></testsuite>
